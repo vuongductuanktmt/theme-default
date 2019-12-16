@@ -2,8 +2,8 @@
   "name": "element-theme-default",
   "version": "1.4.13",
   "description": "Element component default theme.",
-  "main": "lib/index.css",
-  "style": "lib/index.css",
+  "main": "src/index.css",
+  "style": "src/index.css",
   "files": [
     "lib",
     "src"
